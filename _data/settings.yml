@@ -10,14 +10,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
-    - title: 'Projects'
+    - title: 'About Me'
       url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Resume'
+      url: '/resume'
 
 grid_settings:
   grid_spacing: 10
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/ashleyraizes/'
 
 color_settings:
   background_color: '#ffffff'
