@@ -15,7 +15,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Resume'
-      url: 'resume'
+      url: '/resume'
 
 grid_settings:
   grid_spacing: 10
