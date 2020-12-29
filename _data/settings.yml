@@ -11,9 +11,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Blog'
-      url: '/'
-    - title: 'About'
-      url: '/about'
+      url: '/blogs/'
+    - title: 'Recipes'
+      url: '/recipes/'
     - title: 'Resume'
       url: '/resume'
 
