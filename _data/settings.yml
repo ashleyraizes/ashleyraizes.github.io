@@ -15,7 +15,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Resume'
-      url: '/images/ashley-resume.png'
+      url: 'resume'
 
 grid_settings:
   grid_spacing: 10

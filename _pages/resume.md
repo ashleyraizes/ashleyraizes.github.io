@@ -5,4 +5,4 @@ description:
 featured_image: 
 ---
 
-[](/images/ashley-resume.png)
+![](/images/ashley-resume.png)
