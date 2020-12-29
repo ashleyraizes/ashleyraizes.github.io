@@ -1,7 +1,7 @@
 basic_settings:
   site_title: AttaGirlAsh
   site_tagline: My first tagline
-  favicon_image: /images/favicon.png
+  favicon_image: /images/flower-favicon.png
 
 header_settings:
   avatar_image: /images/ashley/ashley-headshot.jpg
