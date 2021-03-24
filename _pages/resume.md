@@ -1,3 +1,3 @@
 ---
 ---
-![](/images/ashley-resume.png)
+![](/images/ashley-resume-updated.png)
