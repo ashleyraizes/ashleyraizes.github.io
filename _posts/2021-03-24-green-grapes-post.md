@@ -2,12 +2,8 @@
 title: 'Green Grapes'
 date: 2021-03-24 00:00:00
 featured_image: '/images/demo/green-grape-stock.jpg'
-excerpt: 
+excerpt: The green grape metaphor for indulgence has changed the way my family and I approach this whole life thing. Yes, you read that right... green grapes
 ---
-
-
-
-### The green grape metaphor for indulgence has changed the way my family and I approach this whole life thing. Yes, you read that right... green grapes. 
 
 There is nothing comparable to the feeling of crunching into a crisp green grape. My family and I hold an odd green grape obsession due to the endless cycle we often find ourselves in: Go to Trader Joes. Buy new green grapes. Return home only to discover we already have grapes. Eat the older grapes first so they don’t go to waste. Repeat. 
 
