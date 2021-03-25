@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Recipes'
       url: '/recipes/'
     - title: 'Resume'
-      url: /images/ashley/ashley-resume-updated.png
+      url: /resume1
 grid_settings:
   grid_spacing: 10
 
