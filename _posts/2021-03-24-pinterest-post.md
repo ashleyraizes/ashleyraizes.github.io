@@ -41,7 +41,7 @@ The other girls are tough shells to crack. They are hard to get to know and don�
 
 ## “I’m Not Like Other Girls”
 
-![](/images/demo/pinterest-profile.jpg)
+![](/images/demo/pinterest-smaller.png)
 
 ### Pinterest 
 
