@@ -9,7 +9,7 @@ We’ve all been there. Endlessly scrolling on social media only to find ourselv
 
 ## The “Other Girl’s” Profile
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="1">
     <img src="/images/demo/facebook-profile.jpg">
     <img src="/images/demo/snapchat-profile.jpg">
     <img src="/images/demo/instagram-profile.jpg">
@@ -41,7 +41,7 @@ The other girls are tough shells to crack. They are hard to get to know and don�
 
 ## “I’m Not Like Other Girls”
 
-![](/images/demo/pinterest-small.jpg)
+![](/images/demo/pinterest-profile.jpg)
 
 ### Pinterest 
 
