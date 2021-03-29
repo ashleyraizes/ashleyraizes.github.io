@@ -9,7 +9,7 @@ We’ve all been there. Endlessly scrolling on social media only to find ourselv
 
 ## The “Other Girl’s” Profile
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="4">
     <img src="/images/demo/facebook-profile.jpg">
     <img src="/images/demo/snapchat-profile.jpg">
     <img src="/images/demo/instagram-profile.jpg">
