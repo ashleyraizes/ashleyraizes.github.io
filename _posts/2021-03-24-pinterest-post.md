@@ -45,7 +45,7 @@ The other girls are tough shells to crack. They are hard to get to know and don�
 
 ### Pinterest 
 
-Pinterest is the girl who lights up every room she walks into. In her own room, she has a quote jar on her desk and thrifted overalls hanging up in the closet. She snorts when she laughs but most people find it endearing. When you are having a midlife crisis, she is there to remind you “you’re going to kill it.” Her goal as a young girl was simple: to be useful. Since then, her mission has evolved into bringing everyone the inspiration to create a life they love. She will encourage you to manifest anything from that one story fixer upper on the country side to the rose tattoo you’ve been wanting (don’t worry, she’s good at keeping secrets if you want to hide certain dreams from your dad). 
+Pinterest is the girl who lights up every room she walks into. In her own room, she has a quote jar on her desk and thrifted overalls hanging up in the closet. She snorts when she laughs but most people find it endearing. When you are having a midlife crisis, she is there to remind you “you’re going to kill it.” Her goal as a young girl was simple: to be useful. Since then, her mission has evolved into **bringing everyone the inspiration to create a life they love.** She will encourage you to manifest anything from that one story fixer upper on the country side to the rose tattoo you’ve been wanting (don’t worry, she’s good at keeping secrets if you want to hide certain dreams from your dad). 
 
 ![](/images/demo/girl-support.jpg)
 
