@@ -1,6 +1,6 @@
 ---
 title: 'Why Pinterest is "Not Like Other Girls"'
-date: 2021-03-25 00:00:00
+date: 2021-03-29 00:00:00
 featured_image: '/images/demo/social-media.jpg'
 excerpt: 
 ---
@@ -40,4 +40,7 @@ Introducing, YouTube. She has a lot of guy friends who are secretly in love with
 The other girls are tough shells to crack. They are hard to get to know and don’t open up to just anybody. Insecure behind closed doors, yet confident in front of a crowd, these girls set false standards for the little sisters of the world. Although it may not be intentional, the other girls basically coined the term FOMO (fear of missing out). They can get so caught up in their own lives they forget to invite the new girl to sit with them at lunch.
 
 ## “I’m Not Like Other Girls”
+
+![](/images/demo/pinterest.jpg)
+
 
