@@ -1,3 +1,3 @@
 ---
 ---
-![](/images/ashley/ashley-raizes-resume.png)
+![](/images/ashley/ashley-resume.png)
