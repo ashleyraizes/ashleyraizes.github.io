@@ -14,7 +14,6 @@ We’ve all been there. Endlessly scrolling on social media only to find ourselv
     <img src="/images/demo/snapchat-profile.jpg">
     <img src="/images/demo/instagram-profile.jpg">
     <img src="/images/demo/youtube-profile.jpg">
-    <img src="/images/demo/pinterest-update.jpg">
 </div>
 
 
