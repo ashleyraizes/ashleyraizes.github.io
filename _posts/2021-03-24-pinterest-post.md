@@ -41,8 +41,6 @@ The other girls are tough shells to crack. They are hard to get to know and don�
 
 ## “I’m Not Like Other Girls”
 
-![](/images/demo/pinterest-again.jpg)
-
 ### Pinterest 
 
 Pinterest is the girl who lights up every room she walks into. In her own room, she has a quote jar on her desk and thrifted overalls hanging up in the closet. She snorts when she laughs but most people find it endearing. When you are having a midlife crisis, she is there to remind you “you’re going to kill it.” 
