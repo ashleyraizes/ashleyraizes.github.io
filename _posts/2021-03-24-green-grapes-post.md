@@ -1,7 +1,7 @@
 ---
 title: 'Green Grapes'
 date: 2021-03-24 00:00:00
-featured_image: '/images/demo/green-grapes.jpg'
+featured_image: '/images/demo/green-grapes-small.jpg'
 excerpt: The green grape metaphor for indulgence has changed the way my family and I approach this whole life thing. Yes, you read that right... green grapes.
 ---
 
