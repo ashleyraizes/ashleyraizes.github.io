@@ -12,9 +12,9 @@ You can make this recipe as sweet or savory as you'd like, ranging from side dis
 
 Ingredients:
 
-*Butternut squash (I buy the precut squares from Trader Joes)
-*Cinnamon
-*Your choice of honey, brown sugar, or maple syrup 
-*Drizzle olive oil
+* Butternut squash (I buy the precut squares from Trader Joes)
+* Cinnamon
+* Your choice of honey, brown sugar, or maple syrup 
+* Drizzle olive oil
 
 Mix all together and toss in the oven @375 degrees fahrenheit for 25-30 minutes. Enjoy!
