@@ -2,7 +2,7 @@
 title: 'Why Pinterest is "Not Like Other Girls"'
 date: 2021-03-29 00:00:00
 featured_image: '/images/demo/social-media.jpg'
-excerpt: Spoiler alert! She snorts when she laughs. 
+excerpt: Spoiler alert: She snorts when she laughs. 
 ---
 
 We’ve all been there. Endlessly scrolling on social media only to find ourselves comparing, doubting, and questioning ourselves. Or maybe you’ve stalked your own feed and felt like an imposter. Abs? Flexing. Skin? Good lighting. Smile? Forced. Either way, modern use of social media is set up as a basis of comparison to the other girl.
