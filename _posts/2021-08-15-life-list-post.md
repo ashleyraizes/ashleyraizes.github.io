@@ -15,7 +15,7 @@ Here’s a recap of my brain dump:
 
 What can I say, the bucket list and I go way back. From the day we met, there was never a dull moment. Our first date was a fancy steak dinner in San Francisco and by our second we were sky-diving over Monterey. When we’re together, I feel young, inspired, and alive. I tried to explain this to my parents whose disapproval was apparent at the sight of B’s sleeve tattoo. As they got to know him, however, they eventually came around. My dad is still on edge, but I know he is just trying to protect “daddy’s little girl.” 
 
-Although the highs are high in this relationship, the lows are equally as low. For every epic date there is a heated argument and for every spontaneous weekend there is a week of loneliness. The truth is, we don’t get around to seeing each other too often. We are both busy working during the week, so by the time the weekend comes around we are ready for our next extravagant adventure. I am starting to question if this endless loop of ups and downs is sustainable, but that’s what the law of averages is for… right?
+Although the highs are high in this relationship, the lows are equally as low. For every epic date there is a heated argument and for every spontaneous weekend there is a week of loneliness. The truth is, we don’t get around to seeing each other too often. We both work the dreamy 9-5, so by the time the weekend comes around we are ready for our next extravagant adventure. I am starting to question if this endless loop of ups and downs is sustainable, but that’s what the law of averages is for… right?
 
 ### Life List
 
