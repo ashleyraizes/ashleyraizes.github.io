@@ -17,17 +17,33 @@ What can I say, the bucket list and I go way back. From the day we met, there wa
 
 Although the highs are high in this relationship, the lows are equally as low. For every epic date there is a heated argument and for every spontaneous weekend there is a week of loneliness. The truth is, we don’t get around to seeing each other too often. We both work the dreamy 9-5, so by the time the weekend comes around we are ready for our next extravagant adventure. I am starting to question if this endless loop of ups and downs is sustainable, but that’s what the law of averages is for… right?
 
+<div class="gallery" data-columns="4">
+   <img src="/images/demo/sky-dive.jpg">
+   <img src="/images/demo/san-fran.jpg">
+   <img src="/images/demo/cliff-jump.jpg">
+   <img src="/images/demo/roller-coaster.jpg">
+</div>
+
 ### Life List
 
 Without fail, the life list sends me good morning texts like clockwork. If I am extra lucky, L will bring me my morning Starbucks, even though my house is on the other side of town. During the day, it doesn’t really matter what we do - all I know is that when we’re together, I light up. Our perfect evening consists of cozying up, ordering a pizza, and turning on HGTV. When we do decide to get out of the house, we love to watch the sunset or join in on family game night. I think my favorite part about our relationship, however, is that L notices the little things that make me Ashley. From my favorite author (shoutout to Mark Manson) to my complete aversion towards mushrooms, I never lose sight of who I am when we’re together. 
 
-As healthy as it is, it is a lot different than my relationship with the bucket list. Sometimes, I feel weird because I am not used to having someone else there 24/7. Another downside is that L snores at night, but let’s try not to get too nit-picky here. 
+As healthy as it is, it is a lot different than my relationship with the bucket list. Sometimes, I feel weird because I am not used to having someone else there 24/7. Another downside is that L snores at night, but let’s try not to get too nit-picky here.
+
+<div class="gallery" data-columns="3">
+   <img src="/images/demo/star-bucks.jpg">
+   <img src="/images/demo/pizza-in.jpg">
+   <img src="/images/demo/sunset-couple.jpg">
+   <img src="/images/demo/game-night.jpg">
+</div>
 
 ### So, who was the one!?
 
 Before you jump to conclusions, I was not the dumpee. In fact, when I finally made the decision to dump the bucket list, there were no random happy birthday texts, self-tormented rom com marathons, or empty boxes of chocolate on the foot of my bed. While my old relationship brought endless adventure, my new one brings enduring love. The life list makes me the happiest I’ve ever been and brings out the best in me.
 
 I encourage you to consider your relationship status. Hey, maybe it doesn’t even have to be monogamous! For me, there’s overlap. The life list provides both challenge and stability and as much as the bucket list pushed my buttons, there was no one who could make me laugh harder. Just don’t be afraid to change what you want because you’ve been committed for 10 years or it's what everyone else is doing. 
+
+![](/images/demo/happy-dating.jpg)
 
 Whatever you choose, make sure it’s what is right for you. Happy dating!
 
