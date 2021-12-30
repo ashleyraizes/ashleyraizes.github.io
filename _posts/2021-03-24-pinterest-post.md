@@ -29,7 +29,7 @@ Like Facebook, Snapchat is a social butterfly. She was well-known in high school
 
 #### Instagram
 
-You can find Instagram at Target in baggy sweatpants, fuzzy socks, and a messy bun on Sunday nights. On Mondays, she watches The Bachelor with her BFFs eating a pint of Ben and Jerry’s. By Tuesday, she has already read the spoilers on <https://realitysteve.com>. Don’t be surprised if she never shows emotion - she uses sarcasm as a coping mechanism. So, when she says “Dude, I can’t even,” she probably *can* even, whatever that means!
+You can find Instagram at Target in baggy sweatpants, fuzzy socks, and a messy bun on Sunday nights. On Mondays, she watches The Bachelor with her BFFs eating a pint of Ben and Jerry’s. By Tuesday, she has already read the spoilers on [Reality Steve](https://realitysteve.com). Don’t be surprised if she never shows emotion - she uses sarcasm as a coping mechanism. So, when she says “Dude, I can’t even,” she probably *can* even, whatever that means!
 
 #### YouTube
 
