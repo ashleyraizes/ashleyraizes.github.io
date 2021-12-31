@@ -2,7 +2,7 @@
 title: 'New Year's Resolution Restated'
 date: 2021-12-30 00:00:00
 featured_image: '/images/demo/sparklers.jpg'
-excerpt: A top down approach to living the life you want this year
+excerpt: A top-down approach to living the life you want this year
 ---
 
 It’s that time of year again. A final calendar countdown prompting us to reflect on the good, the bad, and everything in between. However, it also means it’s time to look ahead. And with that, comes New Years Resolutions. I’d like to point out that New Years Resolutions are merely a function of desired habits or identities. People want to lose weight, travel the world, or become more confident. The problem with these resolutions: they focus too much on the end goal. People know what they want but are left wondering how to get there. But, what if there was a better way to reach our goals and create a new identity beyond them? I believe there is. For the past 3 years, I have repeated a mantra of the year. Tried and tested by yours truly. 
