@@ -13,7 +13,7 @@ It’s that time of year again. A final calendar countdown prompting us to refle
 
 
 
-The purpose behind a mantra of the year is to (surprise surprise!) change your mindset. But in all seriousness, a mantra of the year has the power to manifest growth in multiple verticals of your life. It is a nonlimiting affirmation you can say to yourself in the mirror every morning or when you need a pick me up. Rather than stating that you want to “lose weight” as a resolution, your mantra could be to “become the healthiest version of yourself.” Is losing weight going to be a part of this new identity? Maybe. But, eating healthier, being outdoors more often, and cutting out toxic people could be included as well. 
+The purpose behind a mantra of the year is to (surprise surprise!) change your mindset. But in all seriousness, a mantra of the year has the power to manifest growth in multiple verticals of your life. It is a non-limiting affirmation you can say to yourself in the mirror every morning or when you need a pick-me-up. Rather than stating that you want to “lose weight” as a resolution, your mantra could be to “become the healthiest version of yourself.” When you focus on changing your identity, you start doing things that a healthy person does and before you know it, the identity is yours to keep. Is losing weight going to be a part of this new identity? Maybe. But, eating more vegetables, going on walks, staying hydrated, and fostering valuable relationships could be included as well. 
 
 Simply put, the mantra of the year is a catalyst for becoming who you actually want to be.
 
