@@ -19,7 +19,7 @@ Simply put, the mantra of the year is a catalyst for becoming who you actually w
 
 In 2021, my mantra was to dance like nobody’s watching. Yes, I did find this quote on Pinterest. But, let’s rewind for a second. In 2020, I cared a lot about what other people thought of me. I was a strict rule-follower who never turned in an assignment late, went to bed before 9pm, and overall took life too seriously. I felt like I was holding myself back and with the pandemic, not much was going on. I lacked spontaneity, passion, and challenge in my life. 
 
-When 2021 hit, I launched this blog with the help of my sister. That was my first step towards dancing like nobody was watching. I knew there were many more eight counts to come. And they did. Whether I was literally dancing on the treadmill as I ran, performing stand-up comedy, or creating a startup in under 72 hours, I carried this carefree approach to life year-round.
+When 2021 hit, I launched this blog with the help of my sister. That was my first step towards dancing like nobody was watching. I knew there were many more eight counts to come. And they did. Whether I was literally dancing on the treadmill as I ran, performing stand-up comedy, or creating a startup in under 72 hours, I carried this vivacious approach to life year-round.
 
 
 ### How Do I Create a Mantra of the Year?
