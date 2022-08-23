@@ -1,5 +1,5 @@
 ---
-title: 'New Years Resolution Restated'
+title: 'New Year/'/s Resolution Restated'
 date: 2021-12-30 00:00:00
 featured_image: '/images/demo/sparklers.jpg'
 excerpt: A top-down approach to living the life you want this year.
