@@ -20,7 +20,7 @@ Of course, my story is only a page in the corporate narrative. With this in mind
 
 ### Here's what they had to say:
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
     <img src="/images/demo/corporate-quotes/quote-1.png">
     <img src="/images/demo/corporate-quotes/quote-2.png">
     <img src="/images/demo/corporate-quotes/quote-3.png">
