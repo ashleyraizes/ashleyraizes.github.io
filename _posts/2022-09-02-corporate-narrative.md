@@ -1,5 +1,5 @@
 ---
-title: 'Selling the New Corporate Narrative
+title: 'Selling the New Corporate Narrative'
 date: 2022-9-02 00:00:00
 featured_image: '/images/demo/ash-sf-new.jpg'
 excerpt: 
