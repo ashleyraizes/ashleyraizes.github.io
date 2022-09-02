@@ -45,3 +45,5 @@ As you can see, the story of Corporate America is filled with a collection of ch
 When I reflect on this narrative, I find the greatest theme of all to be community. So as I think back on my outfit choice that first day… it really didn’t matter what I wore. 
 
 Blazer or vest, heels or converse, you’ll be welcomed with open arms into the *#AdobeLife.*
+
+![](/images/demo/adobe-life-new.jpg)
