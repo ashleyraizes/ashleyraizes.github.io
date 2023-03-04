@@ -33,7 +33,7 @@ You can find Instagram at Target in baggy sweatpants, fuzzy socks, and a messy b
 
 #### YouTube
 
-Introducing, YouTube. She has a lot of guy friends who are secretly in love with her and is considered a “guy’s girl.” She’s too busy playing sports to be in a relationship in the first place and would rather watch videos of Emma Chamberlain in her free time. Her favorite saying is “here for a good time not a long time,” so catch her on every rollercoaster at Great America or cliff-jumping in Tahoe.
+Introducing, YouTube. She has a lot of guy friends who are secretly in love with her and is considered a “guy’s girl.” She’s too busy playing sports to be in a relationship in the first place and would rather watch videos of Emma Chamberlain in her free time. Her favorite saying is “here for a good time not a long time” so catch her doing stand-up comedy and cliff-jumping for fun. 
 
 ### The Downfall 
 
@@ -43,9 +43,9 @@ The other girls are tough shells to crack. They are hard to get to know and don�
 
 #### Pinterest 
 
-Pinterest is the girl who lights up every room she walks into. In her own room, she has a collection of inspirational quotes on her wall and thrifted overalls in the closet. At her core, she is a dreamer who does not let anything get in the way of her biggest goals. She wants nothing less for her friends, and is there for whatever they need: new hair, spice of your warddrobe, or a hand-picked quote from her wall. 
+From a young age, Pinterest was a dreamer. She wanted to cook new meals, pick up new hobbies, and travel the world. Her passion for life is contagious, as she **brings everyone the inspiration to create a life they love.** She is the kind of gal who will encourage you to manifest anything big or small - from that fixer upper on the country side to the rose tattoo you’ve been wanting for years (don’t worry, she’s good at keeping secrets if you want to hide certain dreams from your dad). 
 
-Growing up, she was self-less and loving. Since then, she has flourished into a strong woman who **brings everyone the inspiration to create a life they love.** She will encourage you to manifest anything from that one story fixer upper on the country side to the rose tattoo you’ve been wanting for years (don’t worry, she’s good at keeping secrets if you want to hide certain dreams from your dad). 
+The girl you want to bring home to your parents, Pinterest is the perfect partner in crime - constantly working on herself and rooting for others along the way. 
 
 ![](/images/demo/girl-support.jpg)
 
