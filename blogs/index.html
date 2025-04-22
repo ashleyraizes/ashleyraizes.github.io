@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 description: Simples is a super simple blogging theme for Jekyll.
-featured_image: /images/ashley/ashley-headshot-square.jpg
+featured_image: /images/ashley/ash-blog-headshot.JPG
 ---
 
 <section class="listing single">
@@ -19,7 +19,8 @@ featured_image: /images/ashley/ashley-headshot-square.jpg
 			</div>
 
 			{% if posts.featured_image %}
-			<a href="{{ posts.url | relative_url }}" class="listing-post__image" style="background-image: url({{ posts.featured_image | relative_url }});"></a>
+			<a href="{{ posts.url | relative_url }}" class="listing-post__image"
+				style="background-image: url({{ posts.featured_image | relative_url }});"></a>
 			{% endif %}
 
 			<div class="listing-post__content">

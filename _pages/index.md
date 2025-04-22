@@ -2,7 +2,7 @@
 title: About Ash
 description: A snippet of me, my website, and my goals
 subtitle: A snippet of me, my website, and my goals
-featured_image: /images/ashley/ashley-headshot-sqaure.jpg
+featured_image: /images/ashley/about-ash-pic.jpg
 ---
 
 ![](/images/ashley/ash-cropped.jpg)
