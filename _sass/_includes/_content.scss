@@ -287,8 +287,21 @@
 	}
 }
 
-.image-wrap img {
+// .image-wrap img {
+// 	margin: 0 auto;
+// }
+
+.image-wrap {
+	max-width: 850px;
 	margin: 0 auto;
+}
+  
+.image-wrap img {
+	width: 100%;
+	height: auto;
+	padding: 20px;
+	display: block;
+	box-sizing: border-box;
 }
 
 .video {
